@@ -13,6 +13,7 @@
 # https://github.com/Enrique-ZA
 '''
 
+''' Copy code below into sketch '''
 from array import *
 
 grid = array('i',[])
