@@ -11,6 +11,7 @@
 # Author: Enrique Nelson
 # 62746405@mylife.unisa.ac.za
 # https://github.com/Enrique-ZA
+# https://www.thegeekstuff.com/2013/08/python-array/
 '''
 
 ''' Copy code below into sketch '''
